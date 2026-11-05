@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+GS+Adithya+Krishna+%F0%9F%91%8B;AI+Systems+%7C+Agents+%7C+Applied+ML;Building+things+that+reason%2C+remember+and+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+GS+Adithya+Krishna+%F0%9F%91%8B;AI+Systems+%7C+Agents+%7C+Applied+ML;Building+things+that+reason%2C+remember+and+scale" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Amrita_Vishwa_Vidyapeetham-Amritapuri-B91C1C?style=for-the-badge" />
@@ -152,8 +152,8 @@ dbt warehouse and analyses on the Olist dataset covering customer experience and
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[[https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/gsadithyakrishna/)](https://www.linkedin.com/in/gsadithyakrishna/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:adikrishactive@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ADI-KRISH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
