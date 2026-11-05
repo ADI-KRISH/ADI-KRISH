@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+GS+Adithya+Krishna+%F0%9F%91%8B;AI+%7C+Agentic+Systems+%7C+Reinforcement+Learning;Building+AI+systems+that+reason%2C+learn+and+adapt" alt="Typing SVG" />
@@ -26,14 +27,14 @@ I'm interested in building intelligent systems that can **reason, learn from exp
 I enjoy working across the stack: understanding the ML problem, designing the agent architecture, building the backend, evaluating the system and turning the idea into something people can actually use.
 
 - 🤖 Building **Agentic AI & multi-agent systems**
-- 🧠 Exploring **episodic memory and long-horizon agents**
+- 🧠 Exploring **LLM applications, RAG and AI evaluation**
 - 🎮 Working with **Reinforcement Learning & multi-agent RL**
 - 🏎️ Exploring RL for **autonomous racing, overtaking and race strategy**
 - 🛰️ Applying AI to **satellite, geospatial and real-world data**
 - 🧑‍🏫 Building AI systems for **learning, interviews and human interaction**
-- ⚙️ Strengthening **algorithms, system design and production-oriented AI engineering**
+- ⚙️ Strengthening **algorithms, system design and AI engineering**
 
-> **I like building AI systems where intelligence is not just about prediction, but about reasoning, decision-making and learning from experience.**
+> **I like building AI systems where intelligence is not just about prediction, but about reasoning, decision-making and learning.**
 
 ---
 
@@ -62,7 +63,7 @@ I enjoy working across the stack: understanding the ML problem, designing the ag
 | Area | What I Work With |
 |---|---|
 | 🤖 **Agentic AI** | LangGraph, LangChain, RAG, multi-agent orchestration, tool use |
-| 🧠 **Agent Memory** | Episodic memory, retrieval, long-horizon context, experience-based reasoning |
+| 🧠 **Generative AI** | LLM applications, prompt engineering, embeddings, evaluation |
 | 🎮 **Reinforcement Learning** | PPO, hierarchical RL, multi-agent RL, policy learning |
 | 🏎️ **Autonomous Systems** | Racing strategy, overtaking, defending, decision-making |
 | 🧠 **Deep Learning** | PyTorch, Transformers, Vision Transformers, explainability |
@@ -92,14 +93,14 @@ Built around the idea of making preparation **adaptive rather than static** — 
 
 <td width="50%" valign="top">
 
-### 🧠 MNEME
-**Episodic Memory for AI Agents**
+### 📊 Enterprise Data Analyst Agent
+**Natural Language → SQL Analytics**
 
-Exploring how agents can retain, retrieve and reason over their past experiences instead of treating every task as a fresh conversation.
+An AI analytics agent that converts natural-language business questions into SQL queries and returns data-driven answers.
 
-My **final-year project direction**, focused on long-horizon agent behavior and experience-based reasoning.
+Exploring how agentic workflows can make business analytics more accessible through natural-language interaction.
 
-`Agent Memory` `Retrieval` `LLM` `Research`
+`NL-to-SQL` `Agents` `SQL` `Analytics`
 
 </td>
 
@@ -178,12 +179,14 @@ A multi-agent RAG system for analysing legal documents, retrieving relevant clau
 
 <td width="50%" valign="top">
 
-### 🎯 Customer Service Agent
-**Multi-Agent Customer Support System**
+### 🏭 Industrial Operations Intelligence
+**Data Engineering + Machine Learning**
 
-A LangGraph-based customer-service system with specialized agents, routing, product recommendations, policy retrieval, escalation and persistent sessions.
+A data and ML platform focused on turning operational data into useful insights through data pipelines, analytics and machine learning.
 
-`LangGraph` `Multi-Agent` `RAG` `ML`
+Exploring the intersection of **data engineering, ML and operational intelligence**.
+
+`Data Engineering` `ML` `Pipelines`
 
 </td>
 
@@ -193,17 +196,22 @@ A LangGraph-based customer-service system with specialized agents, routing, prod
 
 <td colspan="2" valign="top">
 
-### 📊 Enterprise Analytics Agent
+### 🛒 Marketplace CX & Seller Analytics
+**Olist Marketplace Analytics**
 
-Exploring **NL-to-SQL systems** that allow users to ask business questions in natural language and receive data-driven answers through an agentic analytics workflow.
+A data analytics and engineering project exploring customer experience and seller performance using the Olist marketplace dataset.
 
-`NL-to-SQL` `Agents` `SQL` `Analytics`
+Built around **SQL, dbt and analytical data modeling** to transform raw marketplace data into business insights.
+
+`dbt` `SQL` `Analytics Engineering`
 
 </td>
 
 </tr>
 
 </table>
+
+> 📌 **Pin your favourite repositories** on your GitHub profile to match this section.
 
 ---
 
@@ -219,36 +227,95 @@ I'm particularly interested in the intersection of **learning, reasoning and dec
           ┌────────────────────┼────────────────────┐
           │                    │                    │
           ▼                    ▼                    ▼
-   🤖 Agentic AI         🎮 Reinforcement       🧠 Agent Memory
+   🤖 Agentic AI         🎮 Reinforcement       🧠 Applied AI
                               Learning
           │                    │                    │
           ▼                    ▼                    ▼
-   Reasoning & Tools     Decision Making       Experience
-   Multi-Agent Systems   Multi-Agent RL        Retrieval
-   RAG & Evaluation      Autonomous Systems    Long-Horizon Tasks
+   Reasoning & Tools     Decision Making       Real-World Data
+   Multi-Agent Systems   Multi-Agent RL        Computer Vision
+   RAG & Evaluation      Autonomous Systems    Geospatial ML
 ```
 
 ### Current interests
 
 - **Agentic AI** — planning, orchestration, tool use and evaluation
-- **Agent Memory** — episodic memory and experience retrieval
+- **Generative AI** — RAG, LLM applications and intelligent workflows
 - **Reinforcement Learning** — PPO, hierarchical RL and multi-agent environments
-- **Autonomous Racing** — overtaking, defending and race strategy
-- **Applied ML** — solving problems involving messy real-world data
+- **Autonomous Racing** — overtaking, defending, racing lines and race strategy
+- **Applied ML** — solving problems involving real-world and messy data
 - **AI Evaluation** — measuring whether an AI system actually performs well
 - **AI Engineering** — turning research ideas into usable systems
 
 ---
 
-## 🔬 A Bit Beyond the Projects
+## 🏎️ Reinforcement Learning
 
-I don't want my work to be limited to LLM applications.
+One of my strongest interests outside traditional ML is **Reinforcement Learning**.
 
-I'm also interested in the broader AI stack:
+I enjoy looking at AI from a decision-making perspective — not just *"What should the model predict?"*, but:
 
-**Classical ML → Deep Learning → Reinforcement Learning → Agentic AI → Autonomous Systems**
+> **"What should the agent do next, and how should it learn from the outcome?"**
 
-That includes everything from algorithms and data structures to Transformers, RAG, RL policies, multi-agent systems and production-oriented AI applications.
+I've been particularly interested in applying RL to **Formula 1-style autonomous racing**, including:
+
+- 🏁 Racing-line decision making
+- ⚔️ Overtaking
+- 🛡️ Defensive driving
+- 🎯 Race strategy
+- 🎮 Multi-agent environments
+- 🧠 Hierarchical policies
+- 📈 Exploration vs exploitation
+- 🔄 PPO and policy optimization
+
+My goal is to explore how reinforcement learning can move from learning isolated driving behavior toward **strategic, adaptive decision-making in competitive environments**.
+
+---
+
+## 🤖 Agentic AI
+
+A major part of my work has been exploring how individual AI models can be combined into **systems of specialized agents**.
+
+I've worked with concepts such as:
+
+```text
+User
+ ↓
+Supervisor / Router
+ ↓
+┌─────────────┬──────────────┬─────────────┐
+│ Researcher  │  Pedagogue   │   Scribe    │
+│    Agent    │    Agent     │    Agent    │
+└─────────────┴──────────────┴─────────────┘
+ ↓
+Evaluation / Grading
+ ↓
+Final Response
+```
+
+The interesting part for me isn't simply adding more agents.
+
+It's figuring out:
+
+**Which agent should act? → What information should it receive? → What should it remember? → How should its output be evaluated?**
+
+---
+
+## 🔬 Applied AI
+
+I enjoy applying AI to problems where the data and environment are more complicated than a clean benchmark dataset.
+
+Some areas I've explored include:
+
+- 🛰️ Satellite imagery
+- 🚢 AIS vessel tracking
+- 🌍 Geospatial intelligence
+- 🧠 Medical/deep-learning applications
+- 📄 Legal document analysis
+- 🎓 AI-powered education
+- 🎙️ Interview and communication evaluation
+- 📊 Business analytics
+
+The common theme is using AI as part of a **larger system**, rather than treating a model as the entire solution.
 
 ---
 
@@ -275,12 +342,35 @@ That includes everything from algorithms and data structures to Transformers, RA
 ## 🎯 Currently
 
 ```text
-Building        → Agentic AI systems & MNEMOS-PREP
-Researching     → Episodic memory for long-horizon agents
-Exploring       → Multi-agent & hierarchical reinforcement learning
-Experimenting   → RL for autonomous F1-style racing
-Learning        → AI system design, evaluation & scalable engineering
+Building       → Agentic AI systems & intelligent applications
+Exploring      → Multi-agent & hierarchical reinforcement learning
+Working on     → Adaptive interview and group discussion AI
+Researching    → AI systems, evaluation & autonomous decision-making
+Experimenting  → RL for autonomous F1-style racing
+Learning       → System design, algorithms & scalable AI engineering
 ```
+
+---
+
+## 💡 My Approach
+
+I like projects that sit between **research and engineering**.
+
+```text
+Research Idea
+     ↓
+Prototype
+     ↓
+Experiment
+     ↓
+Evaluate
+     ↓
+Engineer
+     ↓
+Deploy
+```
+
+Whether it's an RL agent learning to race, an LLM system reasoning over documents, or an AI platform evaluating human performance, I enjoy taking an idea from **concept → experiment → working system**.
 
 ---
 
@@ -307,19 +397,4 @@ Learning        → AI system design, evaluation & scalable engineering
 </div>
 ```
 
-### Why I think this fits you better
-
-The biggest change is that I **didn't make you look like an “LLM wrapper developer.”** Your profile now has three clear pillars:
-
-**1. Agentic AI / AI Systems**  
-MNEMOS-PREP, Customer Service Agent, Legal Reviewer, Learning Edge, NL-to-SQL.
-
-**2. Reinforcement Learning / Autonomous Decision-Making**  
-FormulaOneRL, PPO, hierarchical RL, multi-agent RL, overtaking, defending and strategy.
-
-**3. Applied AI / Research**  
-MNEME, DeepPSG, satellite + AIS, computer vision.
-
-That combination is much more distinctive than simply listing `Python | PyTorch | LangChain | React`.
-
-And I deliberately kept the **F1/RL interest prominent**. It gives you a recognizable research direction rather than making your GitHub look like a collection of unrelated GenAI projects.
+I think this is much closer to your actual profile: **Agentic AI is the main engineering direction, RL is a genuine technical/research interest rather than a decorative project, and your applied projects show that you can take AI into different domains.**
