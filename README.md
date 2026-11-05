@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+GS+Adithya+Krishna+%F0%9F%91%8B;AI+%7C+Agentic+Systems+%7C+Reinforcement+Learning;Building+AI+systems+that+reason%2C+learn+and+adapt" alt="Typing SVG" />
@@ -395,6 +394,3 @@ Whether it's an RL agent learning to race, an LLM system reasoning over document
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6EE7B7&height=100&section=footer" width="100%" />
 
 </div>
-```
-
-I think this is much closer to your actual profile: **Agentic AI is the main engineering direction, RL is a genuine technical/research interest rather than a decorative project, and your applied projects show that you can take AI into different domains.**
