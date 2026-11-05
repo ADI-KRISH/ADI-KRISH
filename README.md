@@ -131,20 +131,17 @@ dbt warehouse and analyses on the Olist dataset covering customer experience and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ADI-KRISH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI-KRISH&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" />
 
-<img src="https://streak-stats.demolab.com?user=ADI-KRISH&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<details>
-<summary>📅 Contribution graph</summary>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADI-KRISH&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://img.shields.io/github/followers/ADI-KRISH?style=for-the-badge&logo=github&color=6EE7B7&labelColor=0F172A" />
 
-</details>
+</div>
 
 ---
 
@@ -152,8 +149,8 @@ dbt warehouse and analyses on the Olist dataset covering customer experience and
 
 <div align="center">
 
-<a href="[[https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/gsadithyakrishna/)](https://www.linkedin.com/in/gsadithyakrishna/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:adikrishactive@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ADI-KRISH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
